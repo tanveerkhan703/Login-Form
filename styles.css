@@ -1,0 +1,92 @@
+.boor{
+border: cornflowerblue solid;
+width: 600px;
+height: 440px;
+margin: auto;
+text-align: left;
+padding-top: 50px;
+margin-top: 40px;
+text-align: center;
+border-top-left-radius: 35px;
+border-bottom-left-radius: 35px;
+border-top-right-radius:35px ;
+border-bottom-right-radius: 35px;
+font-size: 19px;
+background-color: lightcyan;
+outline: none;
+}
+
+
+
+.wel{
+text-align: center;
+font-family: sans-serif;
+font-size: 40px;
+border: solid cornflowerblue;
+width: 200px;
+margin: auto;
+border-top-right-radius: 18px;
+border-bottom-left-radius:18px ;
+margin-top: 25px;
+background-color: white;
+
+}
+
+
+
+.sign a{
+display: inline-block;
+word-spacing: 3px;
+text-decoration: none;
+text-align: center;
+padding-bottom: 15px;
+font-size: 15px;
+}
+
+
+input{
+border-top: none;
+border-left: none;
+border-right: none;
+outline: none;
+}
+
+
+.btn{
+width: 150px;
+height: 35px;
+outline:;
+background-color: royalblue;
+border-top-left-radius: 15px;
+border-top-right-radius:15px;
+border-bottom-right-radius: 15px;
+border-bottom-left-radius:15px ;
+/*border: none; */
+color: white;
+}
+
+
+.face{
+	color: royalblue	;
+}
+
+
+.book{
+color: yellowgreen;
+}
+
+
+body{
+
+	background-color:royalblue ;
+}
+
+
+
+
+
+
+
+
+
+
